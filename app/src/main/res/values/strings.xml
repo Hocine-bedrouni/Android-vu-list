@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="start_list">ViewList</string>
+    <string name="vue">vous allez lancer ViewList</string>
+    <!--    <string name=""></string>-->
+    <!--    <string name=""></string>-->
+    <!--    <string name=""></string>-->
+    <!--    <string name=""></string>-->
+    <!--    <string name=""></string>-->
+</resources>
